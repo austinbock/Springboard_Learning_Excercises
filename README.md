@@ -1,4 +1,4 @@
-# Springboard_Learning_Excercises
+# Springboard_Learning_Exercises
 
 All of the files in this repository are related to Springboard curriculem coursework, which includes exercise solutions and related data files.
 
